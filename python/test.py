@@ -6,7 +6,7 @@ test_list = [
         100,
 ]
 
-for   ii in range(1, 100)  :
+for ii in range(1, 100)  :
     print(ii)
 
 # what shold I add ?
